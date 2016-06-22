@@ -1,0 +1,4264 @@
+{
+  "TP53": [
+  {
+    "CDS Mutation": "c.97-2A>G",
+    "Mutation ID (COSM)": 39405,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.97-2A>T",
+    "Mutation ID (COSM)": 44610,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.375+1G>A",
+    "Mutation ID (COSM)": 45304,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.375+1G>T",
+    "Mutation ID (COSM)": 69405,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.375+1_375+18del18",
+    "Mutation ID (COSM)": 49014,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.375+1delG",
+    "Mutation ID (COSM)": 318394,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.375+2T>A",
+    "Mutation ID (COSM)": 46397,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.376-1G>T",
+    "Mutation ID (COSM)": 22908,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.376-1delG",
+    "Mutation ID (COSM)": 45364,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.376-2A>G",
+    "Mutation ID (COSM)": 45672,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.376-3C>T",
+    "Mutation ID (COSM)": 44297,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.376-4A>G",
+    "Mutation ID (COSM)": 44933,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.376-5_376-4delTA",
+    "Mutation ID (COSM)": 46187,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.548_559+15del27",
+    "Mutation ID (COSM)": 44928,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.559+1G>T",
+    "Mutation ID (COSM)": 44268,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.559+4A>C",
+    "Mutation ID (COSM)": 46189,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.559+9C>T",
+    "Mutation ID (COSM)": 43927,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-1G>A",
+    "Mutation ID (COSM)": 43753,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-1G>C",
+    "Mutation ID (COSM)": 43872,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-1G>T",
+    "Mutation ID (COSM)": 43841,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.560-1delG",
+    "Mutation ID (COSM)": 45366,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-2A>C",
+    "Mutation ID (COSM)": 45031,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-2A>G",
+    "Mutation ID (COSM)": 18657,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-3T>G",
+    "Mutation ID (COSM)": 46059,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560-4T>A",
+    "Mutation ID (COSM)": 46188,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.672+1G>C",
+    "Mutation ID (COSM)": 45367,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.672+1G>T",
+    "Mutation ID (COSM)": 13586,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.673-1G>C",
+    "Mutation ID (COSM)": 45675,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.673-1G>T",
+    "Mutation ID (COSM)": 45135,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.673-2A>G",
+    "Mutation ID (COSM)": 6908,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.673-2A>G",
+    "Mutation ID (COSM)": 25225,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.673-2A>T",
+    "Mutation ID (COSM)": 12559,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.673-2A>T",
+    "Mutation ID (COSM)": 33649,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.673-2A>T",
+    "Mutation ID (COSM)": 41575,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.673-2A>T",
+    "Mutation ID (COSM)": 98015,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.782+1G>A",
+    "Mutation ID (COSM)": 43571,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.782+1G>T",
+    "Mutation ID (COSM)": 44640,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.783-1G>T",
+    "Mutation ID (COSM)": 6913,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.783-2A>G",
+    "Mutation ID (COSM)": 45132,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.783-6_783-2delGAGTA",
+    "Mutation ID (COSM)": 44608,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.902_920-4071>C",
+    "Mutation ID (COSM)": 46310,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.919+1G>T",
+    "Mutation ID (COSM)": 13584,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.920-1G>A",
+    "Mutation ID (COSM)": 6917,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.920-1G>T",
+    "Mutation ID (COSM)": 95740,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.920-2A>G",
+    "Mutation ID (COSM)": 33650,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.920-2A>T",
+    "Mutation ID (COSM)": 131541,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.993+1G>A",
+    "Mutation ID (COSM)": 44295,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.993+1G>T",
+    "Mutation ID (COSM)": 6918,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.993+2T>A",
+    "Mutation ID (COSM)": 707067,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.993+2T>C",
+    "Mutation ID (COSM)": 45552,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.994-1G>A",
+    "Mutation ID (COSM)": 674054,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.994-1G>T",
+    "Mutation ID (COSM)": 49007,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.994-2A>G",
+    "Mutation ID (COSM)": 87027,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.994-2A>T",
+    "Mutation ID (COSM)": 43791,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.28G>A",
+    "Mutation ID (COSM)": 45361,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.31G>C",
+    "Mutation ID (COSM)": 11606,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.47A>T",
+    "Mutation ID (COSM)": 12732,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.73_78CTACTT>CTTTT",
+    "Mutation ID (COSM)": 45373,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.78delT",
+    "Mutation ID (COSM)": 5614515,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.91G>A",
+    "Mutation ID (COSM)": 45360,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.101_102delCC",
+    "Mutation ID (COSM)": 48976,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.102delC",
+    "Mutation ID (COSM)": 2745164,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.104_105insT",
+    "Mutation ID (COSM)": 27164,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.104delT",
+    "Mutation ID (COSM)": 4612593,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.105G>T",
+    "Mutation ID (COSM)": 46160,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.107delC",
+    "Mutation ID (COSM)": 2745148,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.112C>T",
+    "Mutation ID (COSM)": 46286,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.139_140delCC",
+    "Mutation ID (COSM)": 44905,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.140delC",
+    "Mutation ID (COSM)": 13161,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.145G>C",
+    "Mutation ID (COSM)": 11935,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.152_176del25",
+    "Mutation ID (COSM)": 391509,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.154C>T",
+    "Mutation ID (COSM)": 44041,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.158G>A",
+    "Mutation ID (COSM)": 44760,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.159G>A",
+    "Mutation ID (COSM)": 44488,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.161delT",
+    "Mutation ID (COSM)": 5271791,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.166G>T",
+    "Mutation ID (COSM)": 12168,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.175_374del200",
+    "Mutation ID (COSM)": 45377,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.180A>T",
+    "Mutation ID (COSM)": 43810,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.184G>T",
+    "Mutation ID (COSM)": 10827,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 4984829,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.193A>T",
+    "Mutation ID (COSM)": 10885,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.193_213del21",
+    "Mutation ID (COSM)": 45335,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.199delC",
+    "Mutation ID (COSM)": 46345,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.202G>T",
+    "Mutation ID (COSM)": 11513,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.206C>G",
+    "Mutation ID (COSM)": 43803,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.207T>C",
+    "Mutation ID (COSM)": 707855,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.212_215CCCC>TCG",
+    "Mutation ID (COSM)": 5320550,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.215_216GC>T",
+    "Mutation ID (COSM)": 46058,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.211delC",
+    "Mutation ID (COSM)": 46307,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.216_217insC",
+    "Mutation ID (COSM)": 128714,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.216_415del200",
+    "Mutation ID (COSM)": 46362,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.216delC",
+    "Mutation ID (COSM)": 18569,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.230C>T",
+    "Mutation ID (COSM)": 562608,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.235G>A",
+    "Mutation ID (COSM)": 5369818,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.253_269del17",
+    "Mutation ID (COSM)": 46356,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.258_280del23",
+    "Mutation ID (COSM)": 45182,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.265delC",
+    "Mutation ID (COSM)": 46063,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.267delC",
+    "Mutation ID (COSM)": 1268330,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.272G>A",
+    "Mutation ID (COSM)": 44192,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.273G>A",
+    "Mutation ID (COSM)": 44492,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.277C>A",
+    "Mutation ID (COSM)": 43812,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.298C>T",
+    "Mutation ID (COSM)": 44032,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.301A>T",
+    "Mutation ID (COSM)": 45259,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.309C>A",
+    "Mutation ID (COSM)": 45307,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.309C>G",
+    "Mutation ID (COSM)": 44453,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.310C>T",
+    "Mutation ID (COSM)": 10886,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.313G>C",
+    "Mutation ID (COSM)": 45179,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.313G>T",
+    "Mutation ID (COSM)": 44481,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.314G>A",
+    "Mutation ID (COSM)": 45997,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717458,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.319_321TAC>CAA",
+    "Mutation ID (COSM)": 45369,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.321C>A",
+    "Mutation ID (COSM)": 45040,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.325T>G",
+    "Mutation ID (COSM)": 48817,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.328delC",
+    "Mutation ID (COSM)": 44669,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.329G>C",
+    "Mutation ID (COSM)": 11250,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.329G>T",
+    "Mutation ID (COSM)": 10716,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.329delG",
+    "Mutation ID (COSM)": 43805,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.331_333CTG>TC",
+    "Mutation ID (COSM)": 48980,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.332T>A",
+    "Mutation ID (COSM)": 44630,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.332T>G",
+    "Mutation ID (COSM)": 44570,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.337T>G",
+    "Mutation ID (COSM)": 11498,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.338T>G",
+    "Mutation ID (COSM)": 10717,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.338_339TC>GT",
+    "Mutation ID (COSM)": 46057,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.341T>A",
+    "Mutation ID (COSM)": 46344,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.352_353insA",
+    "Mutation ID (COSM)": 318156,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.352delA",
+    "Mutation ID (COSM)": 87583,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.358A>T",
+    "Mutation ID (COSM)": 21593,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.359A>C",
+    "Mutation ID (COSM)": 3958852,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.362delC",
+    "Mutation ID (COSM)": 45371,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.365_366delTG",
+    "Mutation ID (COSM)": 44882,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.372C>A",
+    "Mutation ID (COSM)": 326716,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.373A>C",
+    "Mutation ID (COSM)": 45368,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.374C>A",
+    "Mutation ID (COSM)": 44073,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.374C>T",
+    "Mutation ID (COSM)": 44988,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.375G>C",
+    "Mutation ID (COSM)": 46152,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.375G>T",
+    "Mutation ID (COSM)": 45940,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.376T>A",
+    "Mutation ID (COSM)": 44380,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.376T>G",
+    "Mutation ID (COSM)": 43900,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.377A>G",
+    "Mutation ID (COSM)": 11517,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.378C>TT",
+    "Mutation ID (COSM)": 673517,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.379_382delTCCC",
+    "Mutation ID (COSM)": 44538,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.380C>A",
+    "Mutation ID (COSM)": 43970,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.380C>G",
+    "Mutation ID (COSM)": 45483,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.380C>T",
+    "Mutation ID (COSM)": 44226,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1651680,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.383_388delCTGCCC",
+    "Mutation ID (COSM)": 404934,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.386C>T",
+    "Mutation ID (COSM)": 44550,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.388C>T",
+    "Mutation ID (COSM)": 11449,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.389T>CCG",
+    "Mutation ID (COSM)": 49016,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.391_393delAAC",
+    "Mutation ID (COSM)": 44212,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.394A>G",
+    "Mutation ID (COSM)": 10813,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.395A>C",
+    "Mutation ID (COSM)": 43912,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.395A>G",
+    "Mutation ID (COSM)": 11582,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.395A>T",
+    "Mutation ID (COSM)": 43592,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.396G>C",
+    "Mutation ID (COSM)": 43963,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.396G>T",
+    "Mutation ID (COSM)": 10991,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 210756,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1716843,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.400T>C",
+    "Mutation ID (COSM)": 44654,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.400_405TTTTGC>TTCACC",
+    "Mutation ID (COSM)": 46309,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.400delT",
+    "Mutation ID (COSM)": 44670,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.403delT",
+    "Mutation ID (COSM)": 13156,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.404G>A",
+    "Mutation ID (COSM)": 10801,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.404G>T",
+    "Mutation ID (COSM)": 10647,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.404delG",
+    "Mutation ID (COSM)": 5369714,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.405C>A",
+    "Mutation ID (COSM)": 44319,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.405C>G",
+    "Mutation ID (COSM)": 44219,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 674226,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.406C>G",
+    "Mutation ID (COSM)": 43767,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.406C>T",
+    "Mutation ID (COSM)": 11166,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.407_424del18",
+    "Mutation ID (COSM)": 5303464,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.408A>C",
+    "Mutation ID (COSM)": 45929,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.408A>G",
+    "Mutation ID (COSM)": 44154,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.408delA",
+    "Mutation ID (COSM)": 45183,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.411_425del15",
+    "Mutation ID (COSM)": 46186,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.412G>C",
+    "Mutation ID (COSM)": 11188,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.412G>T",
+    "Mutation ID (COSM)": 44508,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.412_414delGCC",
+    "Mutation ID (COSM)": 46093,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.412delG",
+    "Mutation ID (COSM)": 44280,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.413C>T",
+    "Mutation ID (COSM)": 43818,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.415A>T",
+    "Mutation ID (COSM)": 44678,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.415_416delAA",
+    "Mutation ID (COSM)": 44491,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.416delA",
+    "Mutation ID (COSM)": 44110,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.417G>A",
+    "Mutation ID (COSM)": 44086,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.417G>T",
+    "Mutation ID (COSM)": 44220,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.419C>T",
+    "Mutation ID (COSM)": 43742,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.422G>A",
+    "Mutation ID (COSM)": 43708,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.422G>T",
+    "Mutation ID (COSM)": 44911,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.423C>A",
+    "Mutation ID (COSM)": 44611,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.423C>G",
+    "Mutation ID (COSM)": 44204,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.423C>T",
+    "Mutation ID (COSM)": 45102,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133660,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.424C>G",
+    "Mutation ID (COSM)": 44969,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.424delC",
+    "Mutation ID (COSM)": 44927,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.426_458del33",
+    "Mutation ID (COSM)": 4387480,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.427G>A",
+    "Mutation ID (COSM)": 43878,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.427G>T",
+    "Mutation ID (COSM)": 44904,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.428T>A",
+    "Mutation ID (COSM)": 45382,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.428T>C",
+    "Mutation ID (COSM)": 11306,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.428_467del40",
+    "Mutation ID (COSM)": 5300591,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.429G>A",
+    "Mutation ID (COSM)": 46087,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717789,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717791,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.430C>A",
+    "Mutation ID (COSM)": 45825,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.430C>T",
+    "Mutation ID (COSM)": 11245,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.431A>C",
+    "Mutation ID (COSM)": 44205,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.431A>G",
+    "Mutation ID (COSM)": 44028,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.431A>T",
+    "Mutation ID (COSM)": 43783,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.431_431delA",
+    "Mutation ID (COSM)": 3735037,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.434T>A",
+    "Mutation ID (COSM)": 44137,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.434T>G",
+    "Mutation ID (COSM)": 45351,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.437G>A",
+    "Mutation ID (COSM)": 43609,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.438G>A",
+    "Mutation ID (COSM)": 10727,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717786,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.440T>C",
+    "Mutation ID (COSM)": 45819,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.441delT",
+    "Mutation ID (COSM)": 46341,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.442G>T",
+    "Mutation ID (COSM)": 45913,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.443A>T",
+    "Mutation ID (COSM)": 45196,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.445T>A",
+    "Mutation ID (COSM)": 43972,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.445_446delTC",
+    "Mutation ID (COSM)": 45070,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.445_523del79",
+    "Mutation ID (COSM)": 44455,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.446_447CC>TT",
+    "Mutation ID (COSM)": 44105,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.449C>A",
+    "Mutation ID (COSM)": 45563,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.450_451insN",
+    "Mutation ID (COSM)": 43554,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.451C>A",
+    "Mutation ID (COSM)": 43911,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.451C>G",
+    "Mutation ID (COSM)": 44944,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.451C>T",
+    "Mutation ID (COSM)": 10905,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.452C>A",
+    "Mutation ID (COSM)": 11476,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.452C>G",
+    "Mutation ID (COSM)": 44003,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.452C>T",
+    "Mutation ID (COSM)": 44288,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.453C>T",
+    "Mutation ID (COSM)": 44749,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133656,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.451_452delCC",
+    "Mutation ID (COSM)": 44242,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.451delC",
+    "Mutation ID (COSM)": 43969,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.454C>A",
+    "Mutation ID (COSM)": 44561,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.454C>T",
+    "Mutation ID (COSM)": 43582,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.455C>T",
+    "Mutation ID (COSM)": 10790,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.455delC",
+    "Mutation ID (COSM)": 43792,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.452_454delCCC",
+    "Mutation ID (COSM)": 45173,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.456_457insT",
+    "Mutation ID (COSM)": 392239,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.457C>G",
+    "Mutation ID (COSM)": 45821,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.457_458insT",
+    "Mutation ID (COSM)": 48943,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.458C>A",
+    "Mutation ID (COSM)": 43815,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.458C>T",
+    "Mutation ID (COSM)": 44367,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.459C>T",
+    "Mutation ID (COSM)": 43964,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.459delC",
+    "Mutation ID (COSM)": 404850,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.460G>A",
+    "Mutation ID (COSM)": 43692,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.460_461GG>AT",
+    "Mutation ID (COSM)": 45506,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.460_473del14",
+    "Mutation ID (COSM)": 46062,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.461G>T",
+    "Mutation ID (COSM)": 6815,
+    "Count": 19
+  },
+  {
+    "CDS Mutation": "c.461delG",
+    "Mutation ID (COSM)": 5315968,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.462C>A",
+    "Mutation ID (COSM)": 44298,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.462C>T",
+    "Mutation ID (COSM)": 43666,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133659,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.462_463insN",
+    "Mutation ID (COSM)": 46221,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.463A>C",
+    "Mutation ID (COSM)": 10912,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.463A>G",
+    "Mutation ID (COSM)": 44303,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.463_483del21",
+    "Mutation ID (COSM)": 46354,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.464C>A",
+    "Mutation ID (COSM)": 11218,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.464C>T",
+    "Mutation ID (COSM)": 44033,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.464_467CCCG>A",
+    "Mutation ID (COSM)": 5328184,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.465_499del35",
+    "Mutation ID (COSM)": 5304725,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.466_483del18",
+    "Mutation ID (COSM)": 45175,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.466delC",
+    "Mutation ID (COSM)": 45896,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.467G>A",
+    "Mutation ID (COSM)": 43739,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.467G>C",
+    "Mutation ID (COSM)": 10760,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.468_477del10",
+    "Mutation ID (COSM)": 405129,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.469G>C",
+    "Mutation ID (COSM)": 45120,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.469G>T",
+    "Mutation ID (COSM)": 10670,
+    "Count": 50
+  },
+  {
+    "CDS Mutation": "c.469_471delGTC",
+    "Mutation ID (COSM)": 45551,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.469_480del12",
+    "Mutation ID (COSM)": 45266,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.470T>G",
+    "Mutation ID (COSM)": 43903,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.471C>T",
+    "Mutation ID (COSM)": 44526,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.472C>G",
+    "Mutation ID (COSM)": 11087,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.472C>T",
+    "Mutation ID (COSM)": 43848,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.472_473CG>TT",
+    "Mutation ID (COSM)": 48914,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.472delC",
+    "Mutation ID (COSM)": 43781,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.473G>A",
+    "Mutation ID (COSM)": 10690,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.473G>C",
+    "Mutation ID (COSM)": 43615,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.473G>T",
+    "Mutation ID (COSM)": 10714,
+    "Count": 42
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1716300,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1651671,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133658,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.472_473delCG",
+    "Mutation ID (COSM)": 46092,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.475G>A",
+    "Mutation ID (COSM)": 43626,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.475G>C",
+    "Mutation ID (COSM)": 43836,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.475G>T",
+    "Mutation ID (COSM)": 45286,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.475_501del27",
+    "Mutation ID (COSM)": 45533,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.476C>A",
+    "Mutation ID (COSM)": 11496,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.476C>T",
+    "Mutation ID (COSM)": 11148,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 4984833,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.480G>T",
+    "Mutation ID (COSM)": 45674,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.480_481insNN",
+    "Mutation ID (COSM)": 45531,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.481G>A",
+    "Mutation ID (COSM)": 10739,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.481_483GCC>ACT",
+    "Mutation ID (COSM)": 44562,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.481_487delGCCATCT",
+    "Mutation ID (COSM)": 44542,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.481delG",
+    "Mutation ID (COSM)": 44230,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.482C>A",
+    "Mutation ID (COSM)": 11323,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.482C>T",
+    "Mutation ID (COSM)": 43689,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.484A>T",
+    "Mutation ID (COSM)": 44320,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.487T>A",
+    "Mutation ID (COSM)": 44623,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.487T>C",
+    "Mutation ID (COSM)": 43846,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.487T>G",
+    "Mutation ID (COSM)": 44216,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.487_495delTACAAGCAG",
+    "Mutation ID (COSM)": 46363,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.487delT",
+    "Mutation ID (COSM)": 45194,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.488A>G",
+    "Mutation ID (COSM)": 10808,
+    "Count": 26
+  },
+  {
+    "CDS Mutation": "c.489C>T",
+    "Mutation ID (COSM)": 44391,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 210758,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.490A>C",
+    "Mutation ID (COSM)": 44521,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.490A>G",
+    "Mutation ID (COSM)": 10762,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.490A>T",
+    "Mutation ID (COSM)": 10750,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.492G>T",
+    "Mutation ID (COSM)": 11369,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1570327,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.497C>G",
+    "Mutation ID (COSM)": 44467,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.497C>T",
+    "Mutation ID (COSM)": 44289,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.499C>T",
+    "Mutation ID (COSM)": 11333,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.499_500delCA",
+    "Mutation ID (COSM)": 44275,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.499_501delCAG",
+    "Mutation ID (COSM)": 45350,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.499_504CAGCAC>TACCTC",
+    "Mutation ID (COSM)": 45861,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.499delC",
+    "Mutation ID (COSM)": 44336,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.500_501insN",
+    "Mutation ID (COSM)": 45859,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 146254,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.502C>T",
+    "Mutation ID (COSM)": 43861,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.503A>G",
+    "Mutation ID (COSM)": 43545,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.503A>T",
+    "Mutation ID (COSM)": 44801,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.503_507ACATG>TCATT",
+    "Mutation ID (COSM)": 45864,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.507G>A",
+    "Mutation ID (COSM)": 44126,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.507_508insNNN",
+    "Mutation ID (COSM)": 46358,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.510G>A",
+    "Mutation ID (COSM)": 44384,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.509_510insN",
+    "Mutation ID (COSM)": 45853,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.510_511insN",
+    "Mutation ID (COSM)": 44403,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.511G>A",
+    "Mutation ID (COSM)": 44312,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.511G>T",
+    "Mutation ID (COSM)": 10996,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.511delG",
+    "Mutation ID (COSM)": 46095,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.512_513AG>TC",
+    "Mutation ID (COSM)": 45850,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717787,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.514G>T",
+    "Mutation ID (COSM)": 44240,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.515T>G",
+    "Mutation ID (COSM)": 45047,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.517G>A",
+    "Mutation ID (COSM)": 11084,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.517G>T",
+    "Mutation ID (COSM)": 43559,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.517_554del38",
+    "Mutation ID (COSM)": 45676,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.517delG",
+    "Mutation ID (COSM)": 43732,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.518T>C",
+    "Mutation ID (COSM)": 44327,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.518_533del16",
+    "Mutation ID (COSM)": 5234330,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.519G>A",
+    "Mutation ID (COSM)": 44517,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.519_520insN",
+    "Mutation ID (COSM)": 46094,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.520A>T",
+    "Mutation ID (COSM)": 44782,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.521G>A",
+    "Mutation ID (COSM)": 44524,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.521G>T",
+    "Mutation ID (COSM)": 45671,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.523C>G",
+    "Mutation ID (COSM)": 10870,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.523C>T",
+    "Mutation ID (COSM)": 43680,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.524G>A",
+    "Mutation ID (COSM)": 10648,
+    "Count": 18
+  },
+  {
+    "CDS Mutation": "c.524G>C",
+    "Mutation ID (COSM)": 45416,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.524G>T",
+    "Mutation ID (COSM)": 10718,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.525C>G",
+    "Mutation ID (COSM)": 44566,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 144210,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1732644,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 5024548,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.526T>A",
+    "Mutation ID (COSM)": 44146,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.526_535del10",
+    "Mutation ID (COSM)": 45049,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.526delT",
+    "Mutation ID (COSM)": 44759,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.527G>A",
+    "Mutation ID (COSM)": 10687,
+    "Count": 11
+  },
+  {
+    "CDS Mutation": "c.527G>T",
+    "Mutation ID (COSM)": 10645,
+    "Count": 16
+  },
+  {
+    "CDS Mutation": "c.528C>G",
+    "Mutation ID (COSM)": 11114,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.529C>A",
+    "Mutation ID (COSM)": 43669,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.530C>G",
+    "Mutation ID (COSM)": 10651,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.530C>T",
+    "Mutation ID (COSM)": 44097,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.527_528insC",
+    "Mutation ID (COSM)": 673518,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.531_532insN",
+    "Mutation ID (COSM)": 45071,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.532C>G",
+    "Mutation ID (COSM)": 44901,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.532delC",
+    "Mutation ID (COSM)": 44659,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.535C>A",
+    "Mutation ID (COSM)": 44151,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.535C>G",
+    "Mutation ID (COSM)": 44776,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.535C>T",
+    "Mutation ID (COSM)": 10768,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.536A>C",
+    "Mutation ID (COSM)": 44218,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.536A>G",
+    "Mutation ID (COSM)": 10889,
+    "Count": 13
+  },
+  {
+    "CDS Mutation": "c.536A>T",
+    "Mutation ID (COSM)": 43635,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.538G>A",
+    "Mutation ID (COSM)": 43772,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.538G>T",
+    "Mutation ID (COSM)": 43597,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.538_539insN",
+    "Mutation ID (COSM)": 46190,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.540G>T",
+    "Mutation ID (COSM)": 45372,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.540_551del12",
+    "Mutation ID (COSM)": 87248,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.541C>T",
+    "Mutation ID (COSM)": 11090,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.541_546CGCTGC>TGCTGT",
+    "Mutation ID (COSM)": 45855,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.542G>C",
+    "Mutation ID (COSM)": 45046,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.542_543delGC",
+    "Mutation ID (COSM)": 5369731,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.544T>C",
+    "Mutation ID (COSM)": 44563,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.545G>A",
+    "Mutation ID (COSM)": 44546,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.546C>A",
+    "Mutation ID (COSM)": 45562,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.548C>G",
+    "Mutation ID (COSM)": 10706,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.555C>A",
+    "Mutation ID (COSM)": 44185,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.558T>C",
+    "Mutation ID (COSM)": 45823,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.559G>A",
+    "Mutation ID (COSM)": 44026,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.559G>C",
+    "Mutation ID (COSM)": 2744801,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560_561delGT",
+    "Mutation ID (COSM)": 391613,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.560_567GTCTGGCC>19",
+    "Mutation ID (COSM)": 45176,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 5032225,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.559_563delGGTCT",
+    "Mutation ID (COSM)": 45532,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.566delC",
+    "Mutation ID (COSM)": 44454,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.567_568insN",
+    "Mutation ID (COSM)": 46156,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.568delC",
+    "Mutation ID (COSM)": 44936,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.569C>G",
+    "Mutation ID (COSM)": 44004,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133661,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.571delC",
+    "Mutation ID (COSM)": 45341,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.572_574delCTC",
+    "Mutation ID (COSM)": 45140,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.574C>T",
+    "Mutation ID (COSM)": 10733,
+    "Count": 11
+  },
+  {
+    "CDS Mutation": "c.576G>A",
+    "Mutation ID (COSM)": 43782,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.577C>A",
+    "Mutation ID (COSM)": 43935,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.577C>G",
+    "Mutation ID (COSM)": 44002,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.577C>T",
+    "Mutation ID (COSM)": 10672,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.577_578insN",
+    "Mutation ID (COSM)": 45856,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.578A>C",
+    "Mutation ID (COSM)": 43833,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.578A>G",
+    "Mutation ID (COSM)": 10742,
+    "Count": 13
+  },
+  {
+    "CDS Mutation": "c.578A>T",
+    "Mutation ID (COSM)": 11066,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.580C>T",
+    "Mutation ID (COSM)": 10995,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.581T>G",
+    "Mutation ID (COSM)": 44571,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.582_583insN",
+    "Mutation ID (COSM)": 46060,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.583A>T",
+    "Mutation ID (COSM)": 44633,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.584T>A",
+    "Mutation ID (COSM)": 44877,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.584T>C",
+    "Mutation ID (COSM)": 11089,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.584T>G",
+    "Mutation ID (COSM)": 44539,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.585C>G",
+    "Mutation ID (COSM)": 562637,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.586C>T",
+    "Mutation ID (COSM)": 10705,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.587G>C",
+    "Mutation ID (COSM)": 43814,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.589G>A",
+    "Mutation ID (COSM)": 43779,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.589G>C",
+    "Mutation ID (COSM)": 45265,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.590T>C",
+    "Mutation ID (COSM)": 45145,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.591G>T",
+    "Mutation ID (COSM)": 5241937,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 4984828,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.592G>T",
+    "Mutation ID (COSM)": 44241,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.592delG",
+    "Mutation ID (COSM)": 44702,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1169527,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.595G>A",
+    "Mutation ID (COSM)": 43749,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.595G>T",
+    "Mutation ID (COSM)": 44537,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.596G>A",
+    "Mutation ID (COSM)": 43989,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.599_600insN",
+    "Mutation ID (COSM)": 45363,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.602_603insT",
+    "Mutation ID (COSM)": 437516,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.603G>C",
+    "Mutation ID (COSM)": 43777,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.605_606insN",
+    "Mutation ID (COSM)": 45849,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.607_612GTGGAG>CTGGTG",
+    "Mutation ID (COSM)": 45860,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.607delG",
+    "Mutation ID (COSM)": 45308,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.609G>T",
+    "Mutation ID (COSM)": 46319,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.610G>T",
+    "Mutation ID (COSM)": 10804,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.610_630del21",
+    "Mutation ID (COSM)": 43971,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.613T>C",
+    "Mutation ID (COSM)": 43642,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.614A>G",
+    "Mutation ID (COSM)": 43947,
+    "Count": 12
+  },
+  {
+    "CDS Mutation": "c.614A>T",
+    "Mutation ID (COSM)": 11351,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.619_648del30",
+    "Mutation ID (COSM)": 46296,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.622_625delGACA",
+    "Mutation ID (COSM)": 45264,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.623A>T",
+    "Mutation ID (COSM)": 44249,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.624C>G",
+    "Mutation ID (COSM)": 45851,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.625A>C",
+    "Mutation ID (COSM)": 46096,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.625A>T",
+    "Mutation ID (COSM)": 11290,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.626G>A",
+    "Mutation ID (COSM)": 45995,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.626_627delGA",
+    "Mutation ID (COSM)": 13120,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.628A>C",
+    "Mutation ID (COSM)": 44087,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.630C>G",
+    "Mutation ID (COSM)": 45863,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.635T>A",
+    "Mutation ID (COSM)": 45650,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.634delT",
+    "Mutation ID (COSM)": 44358,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.637C>G",
+    "Mutation ID (COSM)": 44102,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.637C>T",
+    "Mutation ID (COSM)": 10654,
+    "Count": 13
+  },
+  {
+    "CDS Mutation": "c.637delC",
+    "Mutation ID (COSM)": 43807,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.638G>T",
+    "Mutation ID (COSM)": 43650,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 166368,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.640C>G",
+    "Mutation ID (COSM)": 45115,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.641A>G",
+    "Mutation ID (COSM)": 43687,
+    "Count": 15
+  },
+  {
+    "CDS Mutation": "c.641delA",
+    "Mutation ID (COSM)": 128666,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.643A>G",
+    "Mutation ID (COSM)": 43951,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.644G>C",
+    "Mutation ID (COSM)": 44175,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.644G>T",
+    "Mutation ID (COSM)": 11450,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.645T>A",
+    "Mutation ID (COSM)": 45122,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.646G>A",
+    "Mutation ID (COSM)": 10667,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.646G>T",
+    "Mutation ID (COSM)": 11210,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.647T>A",
+    "Mutation ID (COSM)": 44274,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.648_649insN",
+    "Mutation ID (COSM)": 44751,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.650T>A",
+    "Mutation ID (COSM)": 44929,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.646_648delGTG",
+    "Mutation ID (COSM)": 44607,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.652_660delGTGCCCTAT",
+    "Mutation ID (COSM)": 46305,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.653T>C",
+    "Mutation ID (COSM)": 44930,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.653T>G",
+    "Mutation ID (COSM)": 44198,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 4984826,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.659A>G",
+    "Mutation ID (COSM)": 10758,
+    "Count": 27
+  },
+  {
+    "CDS Mutation": "c.660T>G",
+    "Mutation ID (COSM)": 44505,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 96438,
+    "Count": 11
+  },
+  {
+    "CDS Mutation": "c.661G>T",
+    "Mutation ID (COSM)": 44817,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.661_665delGAGCC",
+    "Mutation ID (COSM)": 45759,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.662A>G",
+    "Mutation ID (COSM)": 45516,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.670G>A",
+    "Mutation ID (COSM)": 10894,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.670G>T",
+    "Mutation ID (COSM)": 44922,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.671A>TCT",
+    "Mutation ID (COSM)": 46308,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.672G>A",
+    "Mutation ID (COSM)": 44754,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.672G>C",
+    "Mutation ID (COSM)": 44945,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.672G>T",
+    "Mutation ID (COSM)": 11451,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717457,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.677G>A",
+    "Mutation ID (COSM)": 44547,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.677G>T",
+    "Mutation ID (COSM)": 44399,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.678_679ins37",
+    "Mutation ID (COSM)": 46055,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.678_679insG",
+    "Mutation ID (COSM)": 5369738,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.682G>A",
+    "Mutation ID (COSM)": 44398,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.686_687delGT",
+    "Mutation ID (COSM)": 44360,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.687T>A",
+    "Mutation ID (COSM)": 45394,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 210760,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.689C>A",
+    "Mutation ID (COSM)": 43806,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.688_690delACC",
+    "Mutation ID (COSM)": 1193070,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.692_694delCCA",
+    "Mutation ID (COSM)": 48979,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.694A>G",
+    "Mutation ID (COSM)": 44622,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.694A>T",
+    "Mutation ID (COSM)": 43550,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.694_708del15",
+    "Mutation ID (COSM)": 45673,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.694delA",
+    "Mutation ID (COSM)": 46353,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.695T>A",
+    "Mutation ID (COSM)": 10715,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.695_696insN",
+    "Mutation ID (COSM)": 45852,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.697C>T",
+    "Mutation ID (COSM)": 44705,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.699_700insN",
+    "Mutation ID (COSM)": 45857,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.700T>C",
+    "Mutation ID (COSM)": 11152,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.701A>C",
+    "Mutation ID (COSM)": 43865,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.701A>G",
+    "Mutation ID (COSM)": 10725,
+    "Count": 18
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1169423,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.704A>G",
+    "Mutation ID (COSM)": 43616,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.704delA",
+    "Mutation ID (COSM)": 45854,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.706T>C",
+    "Mutation ID (COSM)": 44326,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.707A>G",
+    "Mutation ID (COSM)": 10731,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.707A>T",
+    "Mutation ID (COSM)": 3958810,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.708C>A",
+    "Mutation ID (COSM)": 43564,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.709A>G",
+    "Mutation ID (COSM)": 44525,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.710T>A",
+    "Mutation ID (COSM)": 43952,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.710T>C",
+    "Mutation ID (COSM)": 45329,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.710delT",
+    "Mutation ID (COSM)": 45862,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.711G>A",
+    "Mutation ID (COSM)": 10834,
+    "Count": 11
+  },
+  {
+    "CDS Mutation": "c.711G>C",
+    "Mutation ID (COSM)": 44415,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.711G>T",
+    "Mutation ID (COSM)": 11063,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 46274,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.712T>A",
+    "Mutation ID (COSM)": 43700,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.713G>A",
+    "Mutation ID (COSM)": 11059,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.713G>T",
+    "Mutation ID (COSM)": 43778,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.714T>A",
+    "Mutation ID (COSM)": 45677,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.714_715insN",
+    "Mutation ID (COSM)": 44155,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.715A>G",
+    "Mutation ID (COSM)": 10777,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.716A>C",
+    "Mutation ID (COSM)": 43801,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.716A>G",
+    "Mutation ID (COSM)": 44094,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.718A>G",
+    "Mutation ID (COSM)": 43973,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.718A>T",
+    "Mutation ID (COSM)": 44621,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.721T>G",
+    "Mutation ID (COSM)": 44224,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.721delT",
+    "Mutation ID (COSM)": 43645,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.722C>G",
+    "Mutation ID (COSM)": 10709,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.722C>T",
+    "Mutation ID (COSM)": 10812,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717459,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.724T>A",
+    "Mutation ID (COSM)": 44935,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.725G>A",
+    "Mutation ID (COSM)": 10646,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.725G>C",
+    "Mutation ID (COSM)": 11133,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.725G>T",
+    "Mutation ID (COSM)": 10810,
+    "Count": 17
+  },
+  {
+    "CDS Mutation": "c.726C>G",
+    "Mutation ID (COSM)": 11356,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.726C>T",
+    "Mutation ID (COSM)": 45691,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 145019,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.727A>T",
+    "Mutation ID (COSM)": 43726,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.730G>A",
+    "Mutation ID (COSM)": 10941,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.730G>C",
+    "Mutation ID (COSM)": 44221,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.730G>T",
+    "Mutation ID (COSM)": 11524,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.730delG",
+    "Mutation ID (COSM)": 44940,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.731G>A",
+    "Mutation ID (COSM)": 10883,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.731G>T",
+    "Mutation ID (COSM)": 43652,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.732C>G",
+    "Mutation ID (COSM)": 43656,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133655,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.733G>A",
+    "Mutation ID (COSM)": 6932,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.733G>C",
+    "Mutation ID (COSM)": 10957,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.733G>T",
+    "Mutation ID (COSM)": 11081,
+    "Count": 44
+  },
+  {
+    "CDS Mutation": "c.733_734GG>CT",
+    "Mutation ID (COSM)": 45456,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.733delG",
+    "Mutation ID (COSM)": 44642,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.734G>A",
+    "Mutation ID (COSM)": 43606,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.734G>C",
+    "Mutation ID (COSM)": 43965,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.734G>T",
+    "Mutation ID (COSM)": 11196,
+    "Count": 21
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1169536,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 4984827,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 145022,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.736A>G",
+    "Mutation ID (COSM)": 43555,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.736A>T",
+    "Mutation ID (COSM)": 45992,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.737T>A",
+    "Mutation ID (COSM)": 44103,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.737T>C",
+    "Mutation ID (COSM)": 11355,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.738G>C",
+    "Mutation ID (COSM)": 10757,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.739A>T",
+    "Mutation ID (COSM)": 43864,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.739_744delAACCGG",
+    "Mutation ID (COSM)": 45564,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.740A>G",
+    "Mutation ID (COSM)": 44512,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.740A>T",
+    "Mutation ID (COSM)": 43995,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.740delA",
+    "Mutation ID (COSM)": 45858,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.741C>A",
+    "Mutation ID (COSM)": 45632,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.741_742CC>TT",
+    "Mutation ID (COSM)": 6545,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.742C>G",
+    "Mutation ID (COSM)": 11564,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.742C>T",
+    "Mutation ID (COSM)": 10656,
+    "Count": 21
+  },
+  {
+    "CDS Mutation": "c.742delC",
+    "Mutation ID (COSM)": 45116,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.743G>A",
+    "Mutation ID (COSM)": 10662,
+    "Count": 32
+  },
+  {
+    "CDS Mutation": "c.743G>C",
+    "Mutation ID (COSM)": 11491,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.743G>T",
+    "Mutation ID (COSM)": 6549,
+    "Count": 53
+  },
+  {
+    "CDS Mutation": "c.743_744GG>TT",
+    "Mutation ID (COSM)": 45543,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.744G>C",
+    "Mutation ID (COSM)": 45735,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 210757,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 87196,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 144150,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.745A>G",
+    "Mutation ID (COSM)": 10668,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.745A>T",
+    "Mutation ID (COSM)": 43629,
+    "Count": 12
+  },
+  {
+    "CDS Mutation": "c.746G>C",
+    "Mutation ID (COSM)": 43665,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.746G>T",
+    "Mutation ID (COSM)": 43871,
+    "Count": 15
+  },
+  {
+    "CDS Mutation": "c.747G>C",
+    "Mutation ID (COSM)": 10785,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.747G>T",
+    "Mutation ID (COSM)": 10817,
+    "Count": 30
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133090,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.747_748insN",
+    "Mutation ID (COSM)": 45362,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.748C>T",
+    "Mutation ID (COSM)": 43695,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.748_749CC>TT",
+    "Mutation ID (COSM)": 44609,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.749C>T",
+    "Mutation ID (COSM)": 10771,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.750C>T",
+    "Mutation ID (COSM)": 43957,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.751A>T",
+    "Mutation ID (COSM)": 43967,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.751delA",
+    "Mutation ID (COSM)": 44124,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.753C>G",
+    "Mutation ID (COSM)": 3849376,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.754C>T",
+    "Mutation ID (COSM)": 44054,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.754_762delCTCACCATC",
+    "Mutation ID (COSM)": 45333,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.754delC",
+    "Mutation ID (COSM)": 44541,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.755T>C",
+    "Mutation ID (COSM)": 44769,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.760A>T",
+    "Mutation ID (COSM)": 45647,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.761T>G",
+    "Mutation ID (COSM)": 45035,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.760_762delATC",
+    "Mutation ID (COSM)": 45601,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.763A>G",
+    "Mutation ID (COSM)": 44290,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.763A>T",
+    "Mutation ID (COSM)": 43651,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.763delA",
+    "Mutation ID (COSM)": 46339,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.764T>C",
+    "Mutation ID (COSM)": 11181,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.764T>G",
+    "Mutation ID (COSM)": 10788,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.765_767delCAC",
+    "Mutation ID (COSM)": 69135,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.766A>G",
+    "Mutation ID (COSM)": 44544,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.767_769delCAC",
+    "Mutation ID (COSM)": 1190904,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.772G>A",
+    "Mutation ID (COSM)": 10988,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.772G>C",
+    "Mutation ID (COSM)": 10751,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.772G>T",
+    "Mutation ID (COSM)": 43568,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.773A>T",
+    "Mutation ID (COSM)": 44450,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.774A>C",
+    "Mutation ID (COSM)": 46410,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.774A>T",
+    "Mutation ID (COSM)": 44962,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.775G>T",
+    "Mutation ID (COSM)": 11552,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.776A>T",
+    "Mutation ID (COSM)": 43724,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1717790,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 85772,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.778delT",
+    "Mutation ID (COSM)": 44819,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.780C>T",
+    "Mutation ID (COSM)": 44620,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.780_781insNNN",
+    "Mutation ID (COSM)": 46162,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.781A>G",
+    "Mutation ID (COSM)": 43966,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.784_806del23",
+    "Mutation ID (COSM)": 46343,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.784_807del24",
+    "Mutation ID (COSM)": 43998,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.784delG",
+    "Mutation ID (COSM)": 44697,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.785G>T",
+    "Mutation ID (COSM)": 11198,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.787A>C",
+    "Mutation ID (COSM)": 45781,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.790C>A",
+    "Mutation ID (COSM)": 43959,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.794T>A",
+    "Mutation ID (COSM)": 44926,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.794T>C",
+    "Mutation ID (COSM)": 11011,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.794_795TG>CT",
+    "Mutation ID (COSM)": 46061,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.795G>A",
+    "Mutation ID (COSM)": 43785,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.796G>A",
+    "Mutation ID (COSM)": 10794,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.796G>C",
+    "Mutation ID (COSM)": 11205,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.796G>T",
+    "Mutation ID (COSM)": 44891,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.796_797GG>AC",
+    "Mutation ID (COSM)": 48915,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.796delG",
+    "Mutation ID (COSM)": 45227,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.797G>A",
+    "Mutation ID (COSM)": 10867,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.797G>T",
+    "Mutation ID (COSM)": 10958,
+    "Count": 12
+  },
+  {
+    "CDS Mutation": "c.797_801delGACGG",
+    "Mutation ID (COSM)": 48975,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.797delG",
+    "Mutation ID (COSM)": 44187,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.799C>G",
+    "Mutation ID (COSM)": 45822,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.799C>T",
+    "Mutation ID (COSM)": 11183,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.800G>A",
+    "Mutation ID (COSM)": 43923,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.800G>C",
+    "Mutation ID (COSM)": 11392,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.800G>T",
+    "Mutation ID (COSM)": 13165,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.802A>C",
+    "Mutation ID (COSM)": 43979,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.804C>T",
+    "Mutation ID (COSM)": 44868,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.805A>G",
+    "Mutation ID (COSM)": 43962,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.808T>A",
+    "Mutation ID (COSM)": 43809,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.808T>G",
+    "Mutation ID (COSM)": 44956,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.809T>G",
+    "Mutation ID (COSM)": 43621,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.810T>A",
+    "Mutation ID (COSM)": 44156,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.811G>A",
+    "Mutation ID (COSM)": 10719,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.811G>C",
+    "Mutation ID (COSM)": 43706,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.811G>T",
+    "Mutation ID (COSM)": 43750,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.812A>T",
+    "Mutation ID (COSM)": 44469,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.814G>A",
+    "Mutation ID (COSM)": 10891,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.814G>C",
+    "Mutation ID (COSM)": 45898,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.814G>T",
+    "Mutation ID (COSM)": 10859,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.814_815GT>AA",
+    "Mutation ID (COSM)": 376176,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.814delG",
+    "Mutation ID (COSM)": 13421,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.815T>A",
+    "Mutation ID (COSM)": 44580,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.815T>G",
+    "Mutation ID (COSM)": 44870,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 166369,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.817C>A",
+    "Mutation ID (COSM)": 43909,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.817C>G",
+    "Mutation ID (COSM)": 43843,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.817C>T",
+    "Mutation ID (COSM)": 10659,
+    "Count": 17
+  },
+  {
+    "CDS Mutation": "c.817delC",
+    "Mutation ID (COSM)": 44701,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.818G>A",
+    "Mutation ID (COSM)": 10660,
+    "Count": 77
+  },
+  {
+    "CDS Mutation": "c.818G>C",
+    "Mutation ID (COSM)": 43896,
+    "Count": 13
+  },
+  {
+    "CDS Mutation": "c.818G>T",
+    "Mutation ID (COSM)": 10779,
+    "Count": 83
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 144162,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 1169562,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133677,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 144153,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 145027,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.820G>T",
+    "Mutation ID (COSM)": 10769,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.820delG",
+    "Mutation ID (COSM)": 43974,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.821T>A",
+    "Mutation ID (COSM)": 44448,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.821T>C",
+    "Mutation ID (COSM)": 44393,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.821T>G",
+    "Mutation ID (COSM)": 43945,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.823T>C",
+    "Mutation ID (COSM)": 43902,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.824G>A",
+    "Mutation ID (COSM)": 10893,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.824G>C",
+    "Mutation ID (COSM)": 45413,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.824G>T",
+    "Mutation ID (COSM)": 10701,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.824delG",
+    "Mutation ID (COSM)": 44178,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.825_826ins30",
+    "Mutation ID (COSM)": 46320,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.827C>A",
+    "Mutation ID (COSM)": 45268,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.827C>G",
+    "Mutation ID (COSM)": 45695,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.829T>G",
+    "Mutation ID (COSM)": 45074,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.830G>T",
+    "Mutation ID (COSM)": 10749,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.831T>A",
+    "Mutation ID (COSM)": 44972,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.831_832insN",
+    "Mutation ID (COSM)": 43840,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.832C>A",
+    "Mutation ID (COSM)": 43697,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.832C>G",
+    "Mutation ID (COSM)": 10814,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.832C>T",
+    "Mutation ID (COSM)": 10939,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.832delC",
+    "Mutation ID (COSM)": 45178,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.833C>A",
+    "Mutation ID (COSM)": 43755,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.833C>G",
+    "Mutation ID (COSM)": 10887,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.833C>T",
+    "Mutation ID (COSM)": 10863,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.835G>A",
+    "Mutation ID (COSM)": 44603,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.836G>A",
+    "Mutation ID (COSM)": 43714,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.835delG",
+    "Mutation ID (COSM)": 44005,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.838A>G",
+    "Mutation ID (COSM)": 11123,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.838A>T",
+    "Mutation ID (COSM)": 44390,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.839G>A",
+    "Mutation ID (COSM)": 10728,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.839G>C",
+    "Mutation ID (COSM)": 10724,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.839G>T",
+    "Mutation ID (COSM)": 11287,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.840A>C",
+    "Mutation ID (COSM)": 44233,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.841G>A",
+    "Mutation ID (COSM)": 43596,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.841G>C",
+    "Mutation ID (COSM)": 10943,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.841G>T",
+    "Mutation ID (COSM)": 11516,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.842A>G",
+    "Mutation ID (COSM)": 11232,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.842A>T",
+    "Mutation ID (COSM)": 45729,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.843C>A",
+    "Mutation ID (COSM)": 43906,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.843C>G",
+    "Mutation ID (COSM)": 43837,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133657,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.844C>G",
+    "Mutation ID (COSM)": 10992,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.844C>T",
+    "Mutation ID (COSM)": 10704,
+    "Count": 21
+  },
+  {
+    "CDS Mutation": "c.844_849delCGGCGC",
+    "Mutation ID (COSM)": 5306154,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.844delC",
+    "Mutation ID (COSM)": 43813,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.845G>A",
+    "Mutation ID (COSM)": 44338,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.845G>C",
+    "Mutation ID (COSM)": 44306,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.845_846GG>AT",
+    "Mutation ID (COSM)": 44934,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.846G>C",
+    "Mutation ID (COSM)": 43561,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 96436,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.848G>A",
+    "Mutation ID (COSM)": 11483,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.848G>C",
+    "Mutation ID (COSM)": 10743,
+    "Count": 10
+  },
+  {
+    "CDS Mutation": "c.849C>A",
+    "Mutation ID (COSM)": 44434,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.850A>C",
+    "Mutation ID (COSM)": 44352,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.851C>T",
+    "Mutation ID (COSM)": 44540,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.853G>A",
+    "Mutation ID (COSM)": 10722,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.853G>T",
+    "Mutation ID (COSM)": 44388,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.854A>G",
+    "Mutation ID (COSM)": 45649,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.854A>T",
+    "Mutation ID (COSM)": 44227,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.855_856GG>TA",
+    "Mutation ID (COSM)": 341110,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 145025,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.856G>A",
+    "Mutation ID (COSM)": 10726,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.856G>C",
+    "Mutation ID (COSM)": 44250,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.856G>T",
+    "Mutation ID (COSM)": 43919,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.856delG",
+    "Mutation ID (COSM)": 45277,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.857A>G",
+    "Mutation ID (COSM)": 43565,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.857A>T",
+    "Mutation ID (COSM)": 43936,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.859G>T",
+    "Mutation ID (COSM)": 44133,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.861G>C",
+    "Mutation ID (COSM)": 46366,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.863A>G",
+    "Mutation ID (COSM)": 44523,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.865C>G",
+    "Mutation ID (COSM)": 96340,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.866T>C",
+    "Mutation ID (COSM)": 43968,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.871A>G",
+    "Mutation ID (COSM)": 45050,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.872A>C",
+    "Mutation ID (COSM)": 44433,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.872A>G",
+    "Mutation ID (COSM)": 43747,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.876A>C",
+    "Mutation ID (COSM)": 45611,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.877delG",
+    "Mutation ID (COSM)": 45670,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.880G>C",
+    "Mutation ID (COSM)": 45824,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.880G>T",
+    "Mutation ID (COSM)": 10856,
+    "Count": 8
+  },
+  {
+    "CDS Mutation": "c.880delG",
+    "Mutation ID (COSM)": 6621,
+    "Count": 7
+  },
+  {
+    "CDS Mutation": "c.882G>T",
+    "Mutation ID (COSM)": 45534,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.883C>T",
+    "Mutation ID (COSM)": 44750,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.886C>T",
+    "Mutation ID (COSM)": 43915,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.886delC",
+    "Mutation ID (COSM)": 45069,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.887A>T",
+    "Mutation ID (COSM)": 44522,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.889C>A",
+    "Mutation ID (COSM)": 45693,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.889C>T",
+    "Mutation ID (COSM)": 45803,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.891_892ins17",
+    "Mutation ID (COSM)": 46306,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.892G>T",
+    "Mutation ID (COSM)": 10710,
+    "Count": 15
+  },
+  {
+    "CDS Mutation": "c.893A>T",
+    "Mutation ID (COSM)": 45820,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133654,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.898delC",
+    "Mutation ID (COSM)": 45487,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.901C>T",
+    "Mutation ID (COSM)": 44753,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.902delC",
+    "Mutation ID (COSM)": 45184,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.906G>T",
+    "Mutation ID (COSM)": 46318,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.904delG",
+    "Mutation ID (COSM)": 44237,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.906delG",
+    "Mutation ID (COSM)": 45177,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.913A>T",
+    "Mutation ID (COSM)": 43773,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.913_916delAAGC",
+    "Mutation ID (COSM)": 5274511,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.916C>T",
+    "Mutation ID (COSM)": 10663,
+    "Count": 6
+  },
+  {
+    "CDS Mutation": "c.919_931del13",
+    "Mutation ID (COSM)": 46346,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.919delG",
+    "Mutation ID (COSM)": 44260,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.927delC",
+    "Mutation ID (COSM)": 249311,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.928A>C",
+    "Mutation ID (COSM)": 3958791,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.937A>T",
+    "Mutation ID (COSM)": 44931,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.949C>T",
+    "Mutation ID (COSM)": 10786,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.957G>T",
+    "Mutation ID (COSM)": 43800,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.973G>T",
+    "Mutation ID (COSM)": 307331,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.991C>T",
+    "Mutation ID (COSM)": 11354,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.993G>A",
+    "Mutation ID (COSM)": 46104,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.993G>C",
+    "Mutation ID (COSM)": 179802,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.993G>T",
+    "Mutation ID (COSM)": 96339,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.997delC",
+    "Mutation ID (COSM)": 69084,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1000G>T",
+    "Mutation ID (COSM)": 48816,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1001G>C",
+    "Mutation ID (COSM)": 330687,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1001G>T",
+    "Mutation ID (COSM)": 11514,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.1006G>T",
+    "Mutation ID (COSM)": 11291,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.1009C>T",
+    "Mutation ID (COSM)": 11071,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.1010G>C",
+    "Mutation ID (COSM)": 378685,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.1010G>T",
+    "Mutation ID (COSM)": 11411,
+    "Count": 9
+  },
+  {
+    "CDS Mutation": "c.1015G>T",
+    "Mutation ID (COSM)": 11286,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1015delG",
+    "Mutation ID (COSM)": 5230442,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1017delG",
+    "Mutation ID (COSM)": 5369754,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1020_1021insGAAG",
+    "Mutation ID (COSM)": 5316980,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1024C>T",
+    "Mutation ID (COSM)": 11073,
+    "Count": 5
+  },
+  {
+    "CDS Mutation": "c.1027G>T",
+    "Mutation ID (COSM)": 11078,
+    "Count": 4
+  },
+  {
+    "CDS Mutation": "c.1030_1042del13",
+    "Mutation ID (COSM)": 45370,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1031T>G",
+    "Mutation ID (COSM)": 46303,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1044G>T",
+    "Mutation ID (COSM)": 46348,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.1045G>T",
+    "Mutation ID (COSM)": 10770,
+    "Count": 3
+  },
+  {
+    "CDS Mutation": "c.1045delG",
+    "Mutation ID (COSM)": 46056,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1048_1052delCTCAA",
+    "Mutation ID (COSM)": 5274725,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1051A>T",
+    "Mutation ID (COSM)": 1522202,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1060C>T",
+    "Mutation ID (COSM)": 562344,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1063G>A",
+    "Mutation ID (COSM)": 5276273,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1108A>C",
+    "Mutation ID (COSM)": 44104,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1140T>C",
+    "Mutation ID (COSM)": 96248,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.1171G>A",
+    "Mutation ID (COSM)": 371784,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.673-154G>T",
+    "Mutation ID (COSM)": 45692,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.673-18_677del23",
+    "Mutation ID (COSM)": 392089,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.782+24C>A",
+    "Mutation ID (COSM)": 45690,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.783-6G>T",
+    "Mutation ID (COSM)": 5284421,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.96+16_96+31del",
+    "Mutation ID (COSM)": 674056,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 133662,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 43617,
+    "Count": 456
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 44402,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 45181,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 45195,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 45425,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 45648,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 45651,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 46335,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 46359,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 46367,
+    "Count": 1
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 143786,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 236668,
+    "Count": 2
+  },
+  {
+    "CDS Mutation": "c.?",
+    "Mutation ID (COSM)": 250099,
+    "Count": 1
+  }
+]
+}
